@@ -1,0 +1,10 @@
+img.item{
+    width: 150px;
+    max-width: 150px;
+    height: 150px;
+    max-height: 150px;
+}
+
+div.item{
+    min-height: 260px;
+}
