@@ -9,3 +9,7 @@
                     https://www.youtube.com/channel/UCT3uWFvKLVpRnEealmRwvrw
 
 -嵌入Youtube影片
+
+-首頁頁面：index.html
+-生活頁面：life.html
+-健身頁面：fitness.html
